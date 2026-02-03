@@ -30,3 +30,5 @@ Deliverable:
 - main.cpp
 - 1–2 min video explaining logic + demo run
 - Upload to GitHub (fork this repo first)
+- Code:https://replit.com/@sandratruj/Lab-4
+- Video: https://youtu.be/S5mwSDbBJBI
